@@ -5,14 +5,8 @@
 
 <h1 align="center">
   ✏️ <strong>André Santos</strong><br>
-  <span style="color:#00ff99;">IA Maker + DevOps + API Engineer</span>
+  <span style="color:#00ff99;">IA Maker + n8n + DevOps + API Engineer</span>
 </h1>
-
-<p align="center">
-  <strong style="color:#ffcc00;">Conectando APIs e Automatizando Mundos Reais</strong><br>
-  <span style="color:#7df9ff;">Futuro com DevOps, N8N, Docker e JavaScript</span>
-</p>
-
 
 
 <p align="center">
