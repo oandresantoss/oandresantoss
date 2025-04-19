@@ -1,9 +1,7 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="./banner.png" alt="Banner visual André Santos" width="100%">
+  <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/main/banner.png" alt="Banner visual André Santos" width="100%">
 </p>
-
-
 
 <h1 align="center">
   ✏️ <strong>André Santos</strong><br>
@@ -17,27 +15,16 @@
 
 ---
 
-## ⚙️ Sobre mim
+## 🧠 Tecnologias que uso
 
-✅ Carioca, vibe roots-tech, com Jesus no coração e código na mente.  
-🧠 Desenvolvedor com foco em IA aplicada, automações com N8N e sistemas escaláveis.  
-🚀 Crio soluções para integrar negócios ao futuro — com tecnologia,  
-❤️ Preformesco e pronósito.
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oandresantoss&show_icons=true&theme=tokyonight&title_color=ff66c4&icon_color=00fff7&text_color=ffffff&bg_color=00000000" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandresantoss&layout=compact&theme=tokyonight&title_color=ff66c4&text_color=ffffff&bg_color=00000000" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/main/n8n-icon.png" alt="N8N" width="40" height="40"/>
+</p>
 
 ---
 
@@ -45,35 +32,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🧪 Pilha de tecnologia atual
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/N8N-E87722?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
-
----
-
-## 🌐 Onde me encontrar
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <i>"Tecnologia com propósito muda vidas."</i>
 </p>
