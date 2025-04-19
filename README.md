@@ -1,8 +1,7 @@
-<!-- BANNER -->
-
 <p align="center">
   <img src="./banner.png" alt="Banner visual André Santos" width="100%">
 </p>
+
 
 <h1 align="center">
   ✏️ <strong>André Santos</strong><br>
