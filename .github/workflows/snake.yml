@@ -1,1 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Gera a cobrinha SVG
+        uses: Platane/snk@master
+        with:
+          github_user_name: oandresantoss
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Envia pra branch output
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: ./dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
