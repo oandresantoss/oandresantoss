@@ -13,9 +13,14 @@
   <span style="color:#7df9ff;">Futuro com DevOps, N8N, Docker e JavaScript</span>
 </p>
 
----
 
-## 🧠 Tecnologias que uso
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oandresantoss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&hide_rank=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandresantoss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -26,20 +31,6 @@
   <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/main/n8n-icon.png" alt="N8N" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oandresantoss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&hide_rank=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandresantoss&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🌍 Onde me encontrar
 
@@ -68,4 +59,12 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+
 
