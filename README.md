@@ -26,6 +26,19 @@
   <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/main/n8n-icon.png" alt="N8N" width="40" height="40"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oandresantoss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&hide_rank=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandresantoss&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ## 🌍 Onde me encontrar
@@ -56,8 +69,3 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oandresantoss/oandresantoss/output/github-contribution-grid-snake.svg" />
-</p>
