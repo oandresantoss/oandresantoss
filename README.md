@@ -5,7 +5,7 @@
 
 <h1 align="center">
   ✏️ <strong>André Santos</strong><br>
-  <span style="color:#00ff99;">IA Maker Backend | Javascript + Node.js + APIs, N8N, APIs</span>
+  <span style="color:#00ff99;">IA Maker Backend | Javascript + Node.js + APIs, N8N</span>
 </h1>
 
 
